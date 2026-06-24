@@ -1,4 +1,3 @@
-# Udemy-Project
 # 📊 Udemy Courses Data Analysis
 
 ## 📌 Overview
